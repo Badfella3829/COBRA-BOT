@@ -87,14 +87,14 @@ async def start_command(bot, message):
         photo=f"https://img.freepik.com/premium-photo/king-cobra-snake-cool-character-background-hd-wallpaper_862489-10700.jpg?w=360",
         caption=(
             "**𝐇𝐞𝐥𝐥𝐨 𝐃𝐞𝐚𝐫 {}👋!**\n\n"
-            "**➠ 𝐈 AM ⚡COBRA 🐦‍🔥 TEXT UPLOADER BOT 🐦‍🔥**\n\n"
-            "Use Command /cobra \n"
+            "**➠ 𝐈 AM ⚡𝗕𝗔𝗗𝗙𝗘𝗟𝗟𝗔 🐦‍🔥 TEXT UPLOADER BOT 🐦‍🔥**\n\n"
+            "Use Command /chahal \n"
             "**📅 DATE AND TIME: `{date} {current_time}`**\n\n**"
             "**➠𝐌𝐚𝐝𝐞 𝐁𝐲: 🐦‍🔥 COBRA**"
         ),
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("Contact Me🐦‍🔥", url="https://t.me/COBRA_EX_OWNER_BOT")]
+                [InlineKeyboardButton("Contact Me🐦‍🔥", url="https://t.me/chahal_badfella")]
             ]
         )
     )
